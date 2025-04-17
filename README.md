@@ -64,7 +64,7 @@ Summary of Findings
 
 ### Data Origin
 
-The dataset is coming from an open-source dataset on Maven analytics in 4 csv files [see here to find it.](https://app.mavenanalytics.io/datasets?search=Mexico+Toy+Sales).
+The dataset is coming from an open-source dataset on Maven analytics in 4 csv files [see here to find it.](https://app.mavenanalytics.io/datasets?search=Mexico+Toy+Sales)
 
 
 ### Tools

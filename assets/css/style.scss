@@ -5,8 +5,12 @@
 
 /* Change header to orange gradient */
 .page-header {
-    background-color: #ffa502;       /* Primary orange */
-    background-image: linear-gradient(120deg, #ff8c00, #ff5e00); /* Darker gradient */
+    background-color: #ffaa80 !important;  /* Very light orange */
+    background-image: linear-gradient(120deg, #ffaa80, #ff9e6d) !important;
+
+    h1 {
+        color: #fff
+    }
 }
 
 /* Change links & buttons to orange */
@@ -26,11 +30,11 @@ a {
 }
 
 h1 {
-    color: #ff8c00; 
+    color: #ff8c00 !important; 
 }
 
 h2, h3, h4, h5 {
-    color: #ff9f1a;
+    color: #ff9f1a !important;
 }
 
 

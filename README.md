@@ -166,14 +166,16 @@ Downtown locations consistently outperformed, contributing 56%  of total sales i
 #### Store Location Performance
 
 ##### 2022
-  • Downtown: $4.2M sales (56%) | $1.2M profit (55%)
 
-  • Airport: $0.7M sales (9%) | $205.0K profit (9%)
+  • Downtown: $4.2M sales (56%), $1.2M profit (55%)
+
+  • Airport: $0.7M sales (9%), $205.0K profit (9%)
 
 ##### 2023
-  • Downtown: $4.0M sales (57%) | $1.03M profit (57%)
 
-  • Airport: $0.6M sales (9%) | $173.0K profit (10%)
+  • Downtown: $4.0M sales (57%), $1.03M profit (57%)
+
+  • Airport: $0.6M sales (9%), $173.0K profit (10%)
 
 
 ![2022_store_location_by_sales](images/2022_store_location_by_sales.png)

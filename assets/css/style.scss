@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Change header to orange gradient */
+.page-header {
+    background-color: #ff8c00;       /* Primary orange */
+    background-image: linear-gradient(120deg, #ff8c00, #ff5e00); /* Darker gradient */
+}
+
+/* Change links & buttons to orange */
+a {
+    color: #ff8c00;
+}
+
+.btn {
+    background-color: rgba(255, 140, 0, 0.1);
+    border: 1px solid #ff8c00;
+    color: #ff8c00;
+}
+
+.btn:hover {
+    background-color: #ff8c00;
+    color: white;
+}

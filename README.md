@@ -1,22 +1,3 @@
-<style>
-.header {
-    background-color: #ff8c00 !important;
-    background-image: linear-gradient(120deg, #ff8c00, #ff4500) !important;
-}
-a {
-    color: #ff8c00 !important;
-}
-.btn {
-    background-color: rgba(255, 140, 0, 0.08) !important;
-    border-color: #ff8c00 !important;
-    color: #ff8c00 !important;
-}
-.btn:hover {
-    background-color: #ff8c00 !important;
-    color: white !important;
-}
-</style>
-
 # Toys_Sales_Performance
 
 

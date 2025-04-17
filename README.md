@@ -222,7 +222,7 @@ Downtown locations consistently outperformed, contributing 56%  of total sales i
 ## Deliverables
 
 
-  • Final Dashboard
+  • Final Dashboard [Dashboard Link on Tableau](https://public.tableau.com/views/ToysSalesPerformance/ToysSales?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
   ![Dashboard](images/dashboard.png)
 
